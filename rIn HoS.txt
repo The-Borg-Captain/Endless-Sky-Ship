@@ -23,24 +23,19 @@ ship "rIn HoS"
 		"hit force" 5000
       
 	outfits
-		"Electron Beam" 6
-		"Electron Turret" 8
-		"Heavy Anti-Missile Turret" 4
-      
+	"Electron Beam" 6
+	"Electron Turret" 8		
+	"Heavy Anti-Missile Turret" 4
 	"Heavy Fusion Reactor" 2
-    
 	"D94-YV Shield Generator" 4
-    
 	"Liquid Helium Cooler" 2
-    
 	"Large Radar Jammer"
 	"Cargo Scanner" 
 	"Outfit Scanner"
 	"Surveillance Pod"
-    
 	"Catalytic Ramscoop"
 	"Cloaking Device"
-	 "Jump Drive"
+	"Jump Drive"
 	engine 0 -20
 	gun 5 20 "Electron Beam"
 	gun 4 20 "Electron Beam"
