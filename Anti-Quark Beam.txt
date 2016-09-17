@@ -2,9 +2,9 @@ outfit "Anti-Quark Beam"
 	category "Guns"
 	cost 18000000
 	thumbnail "outfit/unknown"
-	"mass" 60
-	"outfit space" -60
-	"weapon capacity" -60
+	"mass" 27
+	"outfit space" -27
+	"weapon capacity" -27
 	"gun ports" -1
 	weapon
 		sprite "projectile/skylance"
@@ -12,13 +12,13 @@ outfit "Anti-Quark Beam"
 		sound "skylance"
 		"hit effect" "skylance impact"
 		"inaccuracy" .2
-		"velocity" 500
+		"velocity" 620
 		"lifetime" 1
 		"reload" 1
 		"firing energy" 30
 		"firing heat" 10
-		"shield damage" 250
-		"hull damage" 200
+		"shield damage" 50
+		"hull damage" 25
 		"ion damage" .4
 
 effect "skylance impact"

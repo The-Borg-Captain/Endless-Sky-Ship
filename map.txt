@@ -21382,9 +21382,9 @@ system Tejat
 			minables iron 9 6.73101
 			minables tungsten 3 7.11041
 
-system "The Forgoten"
+system "The Forgotten"
 	pos 390.288 -573.92
-	government Uninhabited
+	government The Forgotten"
 	habitable 10355
 	asteroids "small rock" 3 5.49
 	asteroids "medium rock" 3 5.22
@@ -21392,6 +21392,7 @@ system "The Forgoten"
 	asteroids "small metal" 1 4.86
 	asteroids "medium metal" 7 5.085
 	asteroids "large metal" 1 4.68
+	
 	object
 		sprite star/b5
 		distance 23.1869
@@ -21421,8 +21422,8 @@ system "The Forgoten"
 		distance 1187.14
 		period 160.783
 		offset 213.518
-		object "Forgoten's Station"
-			sprite planet/station4
+		object "The Forgotten's Station"
+			sprite planet/station8
 			distance 145.042
 			period 66.0299
 			offset 322.421

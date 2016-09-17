@@ -12,13 +12,13 @@ outfit "Anti-Quark Turret"
 		sound "skylance"
 		"hit effect" "skylance impact"
 		"inaccuracy" .2
-		"velocity" 500
+		"velocity" 600
 		"lifetime" 1
 		"reload" 1
 		"firing energy" 30
 		"firing heat" 10
-		"shield damage" 500
-		"hull damage" 400
+		"shield damage" 100
+		"hull damage" 50
 		"ion damage" 1
 
 effect "skylance impact"

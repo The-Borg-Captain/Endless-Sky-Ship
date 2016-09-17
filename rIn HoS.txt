@@ -4,16 +4,16 @@ ship "rIn HoS"
 	attributes
 		category "Heavy Warship"
 		"cost" -1380000000
-		"shields" 10000000
+		"shields" 100000
 		"hull" 10000
-		"required crew" 1
+		"required crew" 10
 		"bunks" 300
 		"mass" 1000
 		"drag" 5
 		"heat dissipation".5
-		"fuel capacity" 1000
+		"fuel capacity" 10000
 		"cargo space" 360
-		"outfit space" 10000
+		"outfit space" 1000
 		"weapon capacity" 2000
 		"engine capacity" 5000
 		weapon
