@@ -1,0 +1,9 @@
+outfit "Solar Ramscoop"
+	category "Systems"
+	cost 460000
+	thumbnail "outfit/wanderer ramscoop"
+	"mass" 100
+	"outfit space" -20
+	"hull" -300
+	"ramscoop" 100
+	
