@@ -3,13 +3,13 @@ ship "rIn HoS"
 	sprite ship/Ship2
 	attributes
 		category "Heavy Warship"
-		"cost" -1380000000
+		"cost" 138000000
 		"shields" 100000
 		"hull" 10000
 		"required crew" 10
 		"bunks" 300
 		"mass" 1000
-		"drag" 5
+		"drag" 8
 		"heat dissipation".5
 		"fuel capacity" 10000
 		"cargo space" 360
